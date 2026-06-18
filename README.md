@@ -1,2 +1,2 @@
-# ElevateAI-Sites
-ElevateAI Sites is a next-generation platform designed to help small businesses and individuals build, promote, and grow their online presence effortlessly. With instant website creation, integrated e-commerce, and a self-learning AI chatbot, ElevateAI Sites transforms a simple idea into a professional digital storefront.
+# ElevateAI Commerce
+ElevateAI Commerce is a powerful AI-driven platform built to help small businesses and individuals create, promote, and grow their online presence. It combines instant website generation, integrated e-commerce, and a self-learning AI chatbot that adapts to each business’s unique needs. With advanced payment, shipping, and service integration, ElevateAI Commerce is more than a website builder — it’s a business growth ecosystem.
